@@ -1,0 +1,11 @@
+--- test.c
++++ /tmp/cocci-output-82390-6dcbd4-test.c
+@@ -6,7 +6,7 @@
+ int main(int argc, char const *argv[])
+ {
+     int a = 1;
+-    if(!a & B) {
++    if(!(a & B)) {
+         printf("hit\n");
+     }
+     return 0;
