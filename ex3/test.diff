@@ -1,0 +1,10 @@
+--- test.c
++++ /tmp/cocci-output-86268-349aef-test.c
+@@ -6,6 +6,6 @@
+ int main(int argc, char const *argv[])
+ {
+     ide_hwif_t *hwif = (ide_hwif_t *)malloc(sizeof(ide_hwif_t));
+-    hwif->hwif_data = NULL;
++    ide_set_hwifdata(hwif, NULL);
+     return 0;
+ }
