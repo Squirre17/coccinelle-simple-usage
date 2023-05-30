@@ -1,0 +1,14 @@
+--- test.c
++++ /tmp/cocci-output-85429-ee1e56-test.c
+@@ -35,9 +35,8 @@ int main(int argc, char const *argv[])
+     char buf[0x10];
+ 
+     dev->phys_dma_addr =
+-        pci_map_single(dev->pci_dev, 
+-            (void *)buf, R852_DMA_LEN,
+-            PCI_DMA_FROMDEVICE);
++            dma_map_single(&dev->pci_dev->dev, (void *)buf, R852_DMA_LEN,
++                           DMA_FROM_DEVICE);
+ 
+     return 0;
+ }
