@@ -1,0 +1,65 @@
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------
+No.0 File: 
+test.c
+--first fetch: line 5
+--second fetch: line 10
+-------------------------------

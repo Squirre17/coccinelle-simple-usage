@@ -1,0 +1,8 @@
+src1: src_buf
+test.c:5:38-39: rule1 First fetch
+test.c:10:38-39: rule1 Second fetch
+No.  0  file:  test.c
+--first fetch: line  5
+--second fetch: line  10
+------------------------------------
+
